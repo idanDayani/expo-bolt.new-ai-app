@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Expo Bolt AI App</h1>
 
-<h3 align="center">🌐 Result Web Page: <a href="[https://idan-dayani-github-fyi.expo.app/projects](https://idan-dayani-github-fyi.expo.app/)" target="_blank">View Project</a></h3>
+<h3 align="center">🌐 Result Web Page: <a href="https://idan-dayani-github-fyi.expo.app/" target="_blank">View Project</a></h3>
 
 <p align="center">
   <strong>A modern AI-powered mobile app built with Expo and React Native.</strong>
